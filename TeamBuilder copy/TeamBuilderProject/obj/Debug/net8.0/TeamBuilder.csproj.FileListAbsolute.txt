@@ -1,0 +1,62 @@
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/appsettings.Development.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/appsettings.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/global.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/TeamBuilder.staticwebassets.runtime.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/TeamBuilder
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/TeamBuilder.deps.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/TeamBuilder.runtimeconfig.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/bin/Debug/net8.0/TeamBuilder.pdb
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.AssemblyInfoInputs.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.AssemblyInfo.cs
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.csproj.CoreCompileInputs.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.MvcApplicationPartsAssemblyInfo.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.RazorAssemblyInfo.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.RazorAssemblyInfo.cs
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets.build.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets.development.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets/msbuild.TeamBuilder.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets/msbuild.build.TeamBuilder.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TeamBuilder.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TeamBuilder.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/scopedcss/bundle/TeamBuilder.styles.css
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/scopedcss/projectbundle/TeamBuilder.bundle.scp.css
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/refint/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.pdb
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/TeamBuilder.genruntimeconfig.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder/obj/Debug/net8.0/ref/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/appsettings.Development.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/appsettings.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/global.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/TeamBuilder.staticwebassets.runtime.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/TeamBuilder
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/TeamBuilder.deps.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/TeamBuilder.runtimeconfig.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/bin/Debug/net8.0/TeamBuilder.pdb
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.AssemblyInfoInputs.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.AssemblyInfo.cs
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.csproj.CoreCompileInputs.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.MvcApplicationPartsAssemblyInfo.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.RazorAssemblyInfo.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.RazorAssemblyInfo.cs
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets.build.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets.development.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets/msbuild.TeamBuilder.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets/msbuild.build.TeamBuilder.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TeamBuilder.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TeamBuilder.props
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/scopedcss/bundle/TeamBuilder.styles.css
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/scopedcss/projectbundle/TeamBuilder.bundle.scp.css
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/refint/TeamBuilder.dll
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.pdb
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/TeamBuilder.genruntimeconfig.cache
+/Users/minitech/Documents/Local CS460 Git/TeamBuilder copy/TeamBuilderProject/obj/Debug/net8.0/ref/TeamBuilder.dll

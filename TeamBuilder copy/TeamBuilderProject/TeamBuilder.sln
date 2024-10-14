@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamBuilder", "TeamBuilder.csproj", "{6537B2BB-9D9E-4B11-8B88-52E87EE8B511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teambuilder_tests", "..\Teambuilder_tests\Teambuilder_tests.csproj", "{22C18102-95E5-4DAF-9E44-B084D17C8E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6537B2BB-9D9E-4B11-8B88-52E87EE8B511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6537B2BB-9D9E-4B11-8B88-52E87EE8B511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6537B2BB-9D9E-4B11-8B88-52E87EE8B511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6537B2BB-9D9E-4B11-8B88-52E87EE8B511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C18102-95E5-4DAF-9E44-B084D17C8E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C18102-95E5-4DAF-9E44-B084D17C8E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C18102-95E5-4DAF-9E44-B084D17C8E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C18102-95E5-4DAF-9E44-B084D17C8E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+@model TeamBuilder.Models.MemberNames
+@{
+    ViewData["Title"] = "Enter Members";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <link href ="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+        <title> @ViewData["Title"]</title>
+    </head>
+    <body>
+        <div class="container mt-4">
+            <div asp-validation-summary="None" class="text-danger"></div>
+
+            <form asp-action="SubmitNames" method="post">
+
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fs-3"> Names</label>
+                    <textarea asp-for="Name" class="form-control" rows="20" cols="40"> </textarea>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+
+                </div>
+                <div class="mb-3">
+                    <label asp-for="TeamSize" class="form-label fs-3">Team size (Select size between 2 and 10 ONLY!!</label>
+                    <input asp-for="TeamSize" class="form-control" />
+                    <span asp-validation-for="TeamSize" class="text-danger"></span>
+
+                </div>
+                <button type="submit" class="btn btn-primary"> Submit names</button>
+            </form>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    </body>
+</html>   

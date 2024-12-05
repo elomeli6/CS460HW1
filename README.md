@@ -1,4 +1,27 @@
 # CS460HW1
+For this assignment you'll build a simple web application that lets you do something I need to do frequently: form teams.  The most important example of doing this is when we put you into teams of 3 or 4 for your big 2-term software engineering project at the end of this term.  If I want to form teams randomly I'll often whip out a Python session, paste in a list of names, shuffle the list, then partition it into the desired team size.  It would be a lot nicer to have an application to do all this with the click of a mouse. 
+
+Let's get started.  For this assignment I will give you the functional requirements in the form of a video demonstration of my "solution".  (I put that in quotes because there are many solutions; so mine is really just my version of meeting the requirements.  Yours will look different but should function identically.)  Here's what it should do in a nutshell:
+
+The application should take a list of names and assign them into teams randomly.  The user specifies the team size.  Lastly the app should assign team titles randomly so it's easier to identify teams.
+
+
+The video (hopefully) describes the functional requirements completely.  We do have further requirements that I'm adding to ensure you do things certain ways.  Some of these are appropriately called non-functional requirements.  Your solution must meet these further requirements:
+
+- Use .NET 8.0 and C#
+- Use Bootstrap and style it nicely
+- Use MVC with a single controller
+- Use a POST request to send the list of names to the server.  The assignment of names to teams must be done on the server in C#.  Build the teams page using Razor in a View following the traditional MVC way.
+- All pages must use a "strongly typed view" with either a view-model or a model.  You may not use the ViewBag or ViewData for any page data (i.e. names, team names, team size, ...)  
+- The form must have input validation on the list of names and on the team size:
+- The list of names must be one name per line.  Allowed characters are only: letters, spaces and the characters ,.-_'
+- Team size must be an integer between 2 and 10 (inclusive)
+- The page showing team assignments needs to have some special styling.  You don't have to create random colors as I have done, but you must do something more than simply throwing names into a list.  Use colors, borders, background images, etc ... (I used Bootstrap CardsLinks to an external site. and      gradient background colors).  
+- When the button is pressed to assign names to the teams, you must accomplish this task using Javascript only with no page reloads.  Here is the list of animal names I used: animals.txtLinks to an external site. (thank you Alberto Scorrano).  Feel free to use something else to name your teams, but        whatever it is, it must have hundreds of names to choose from.
+- You must write, and pass, 4 Unit test methods that test some part of the functional requirements of this assignment.  The best way to do this is to add a separate C# NUnit project to your solution file and write a single .cs file there that uses NUnit.  
+- As discussed in class, you may use code from online resources but it must be attributed in your source code in a comment.  It must always include a link to the source.
+  Turn in this homework as discussed in the turn in your homework page which means you'll need to do your work in the GitHub repository given to you by the instructor and make sure and push your finalized work to it prior to the due date and also create a demonstration video and upload a link to this      video on Canvas before the due date.
+
 Homework 1 Team Building
 Sources used for this homework:
 
